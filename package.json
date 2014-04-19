@@ -1,0 +1,32 @@
+{
+  "name": "ember-data-json-patch-adapter",
+  "version": "0.0.1-pre",
+  "description": "Pink power ranger forever holds my heart",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "broccoli": "~0.9.0",
+    "broccoli-dist-es6-module": "~0.1.8",
+    "broccoli-merge-trees": "^0.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jayphelps/ember-data-json-patch-adapter.git"
+  },
+  "keywords": [
+    "ember",
+    "ember-data",
+    "data",
+    "model",
+    "adapter",
+    "json",
+    "patch",
+    "rfc-6902"
+  ],
+  "author": "Jay Phelps <hello@jayphelps.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayphelps/ember-data-json-patch-adapter/issues"
+  },
+  "homepage": "https://github.com/jayphelps/ember-data-json-patch-adapter"
+}
